@@ -1,7 +1,7 @@
 ---
 title: O Uni-FACEF
 pageTitle: Uni-FACEF - Trote Solidário 2023
-description: Uni-FACEF - Trote Solidário 2023.
+description: Uni-FACEF - Trote Solidário 2023
 ---
 
 ## Resumo do Uni-FACEF
